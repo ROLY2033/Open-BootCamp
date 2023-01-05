@@ -1,0 +1,35 @@
+#que es lenguaje de programacion#
+
+Un conjunto de reglas bien definidas
+Que mediante los altorimos podemos dar instrucciones a un sistema
+Que nos permite controlar un sistema
+
+PARADIGMAS
+imperativo
+paradigmas mas antiguos
+secuencia de instrucciones
+define el paso a paso
+
+declarativo
+cual va ser el resultado final
+
+funcionales
+trata de programacion en base a funciones
+mutar = cambiar
+
+procedimentales
+trata de programacion en base a la secuecia
+
+division de niveles
+binario
+bajo nivel
+medio nivel
+alto nivel
+
+conversion
+compilados
+salida no tiene tu programa ejectando tiene que pasar por un compilador
+interpredos
+salida ya tiene tu programa ejectando
+IDE
+Entorno de desarrollo de integrado
